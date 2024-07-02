@@ -1,0 +1,12 @@
+/* styles/index.css */
+.logoDiv {
+    height: 200px;
+    width: 150px;
+}
+
+/* Set image size directly */
+.logoDiv img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain; /* To maintain aspect ratio */
+}
